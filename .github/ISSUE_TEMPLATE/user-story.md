@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: User story description and implementation guide
+about: My first user story
 title: ''
 labels: ''
 assignees: ''
